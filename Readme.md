@@ -32,7 +32,6 @@ In this hack, you will learn how to set up an Azure Virtual Desktop in a typical
 - Challenge 5: **[Create FSLogix Profile Solution](Challenges/05-Implement-FSLogix-Profile-Solution.md)**
 - Challenge 6: **[Set up a scaling plan](Challenges/06-scaling-plan.md)**
 - Challenge 7: **[Customize RDP Properties](Challenges/07-RDP-properties.md)**
-- Challenge 8 (optional): **[Configure MFA](Challenges/08-Configure-MFA.md)**
 
 ## Contributor
 - [Ben Martin Baur](https://www.linkedin.com/in/ben-martin-baur/)
